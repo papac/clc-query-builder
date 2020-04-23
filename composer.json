@@ -9,6 +9,11 @@
             "email": "dakiafranck@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "CLC\\": "src/"
+        }
+    },
     "minimum-stability": "dev",
     "require": {}
 }
