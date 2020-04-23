@@ -1,0 +1,14 @@
+{
+    "name": "clc/query-builder",
+    "description": "The Easy query builder for dev",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Franck DAKIA",
+            "email": "dakiafranck@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
